@@ -1,0 +1,17 @@
+digraph GoT {
+rankdir=LR;
+size="8,5"
+node [shape = rectangle] [color = black];
+"Cassana Estermont" -> "Robert Baratheon" [label="mother"];
+"Cassana Estermont" -> "Stannis Baratheon" [label="mother"];
+"Cassana Estermont" -> "Renly Baratheon" [label="mother"];
+"Cersei Lannister" -> "Joffrey Baratheon" [label="mother"];
+"Cersei Lannister" -> "Myrcella Baratheon" [label="mother"];
+"Cersei Lannister" -> "Tommen Baratheon" [label="mother"];
+"Robert Baratheon" -> "Gendry" [label="father"];
+"Selyse Baratheon" -> "Shireen Baratheon" [label="mother"];
+"Stannis Baratheon" -> "Shireen Baratheon" [label="father"];
+"Steffon Baratheon" -> "Robert Baratheon" [label="father"];
+"Steffon Baratheon" -> "Stannis Baratheon" [label="father"];
+"Steffon Baratheon" -> "Renly Baratheon" [label="father"];
+}

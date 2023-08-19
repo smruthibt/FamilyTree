@@ -1,0 +1,13 @@
+Cassana Estermont, FEMALE
+Cersei Lannister, FEMALE
+Gendry, MALE
+Joffrey Baratheon, MALE
+Margaery Tyrell, FEMALE
+Myrcella Baratheon, FEMALE
+Renly Baratheon, MALE
+Robert Baratheon, MALE
+Selyse Baratheon, FEMALE
+Shireen Baratheon, FEMALE
+Stannis Baratheon, MALE
+Steffon Baratheon, MALE
+Tommen Baratheon, MALE
